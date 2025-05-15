@@ -1,4 +1,18 @@
 # Feta-che Project
-Feta! Kotlin. Android.
 
-studying
+# TEST READEME!
+
+- 👋 Hi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+polelone/polelone is a kotlin study.. 
+rest: last 4 days..
+--->
+
+test !!
